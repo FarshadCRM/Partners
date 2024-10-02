@@ -1,0 +1,940 @@
+<!DOCTYPE html>
+<html lang="fa" xmlns="http://www.w3.org/1999/xhtml"
+   xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"
+   xml:lang="fa">
+
+<head>
+   <meta http-equiv="Content-Type" content="text/html;" charset="utf-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width,initial-scale=1">
+   <meta name="format-detection" content="telephone=no, date=no, address=no, email=no">
+   <meta name="x-apple-disable-message-reformatting">
+      <!--[if gte mso 9]>
+      <xml>
+         <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+         </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+   <!--[if mso]>
+      <style type="text/css">
+         td { font-family: Arial, sans-serif !important; }
+         a { font-family: Arial, sans-serif !important; }
+         .quote-mark { } 
+      </style>
+      <![endif]-->
+   <!--[if !mso]><!-->
+   <link href="https://use.typekit.net/cpo0zhq.css" rel="stylesheet" />
+   <!--<![endif]-->
+   <meta name="color-scheme" content="light">
+   <meta name="supported-color-schemes" content="light">
+
+   <style>
+      .hiding_desktop {
+         display: none !important;
+      }
+      .section_top {
+          border-radius: 0px !important;
+       }
+      .section_bot {
+          border-radius: 0px !important;
+       }
+
+      @media only screen and (max-width: 640px) {
+         .mainContainer {
+            margin-top: 0 !important;
+            margin-bottom: 0 !important;
+            border: none !important;
+         }
+
+         .specTable {
+            display: block;
+         }
+
+         .footer {
+            border-bottom: none !important;
+         }
+
+         html,
+         * {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+         }
+
+         table,
+         td {
+            mso-table-lspace: 0pt !important;
+            mso-table-rspace: 0pt !important;
+         }
+
+         img {
+            -ms-interpolation-mode: bicubic;
+         }
+
+         *[x-apple-data-detectors],
+         /* iOS */
+         .x-gmail-data-detectors,
+         /* Gmail */
+         .x-gmail-data-detectors *,
+         .aBn {
+            border-bottom: 0 !important;
+            cursor: default !important;
+            color: inherit !important;
+            text-decoration: none !important;
+         }
+
+         .a6S {
+            display: none !important;
+            opacity: 0.01 !important;
+         }
+
+         img.g-img+div {
+            display: none !important;
+         }
+
+         .button-link {
+            text-decoration: none !important;
+         }
+
+         .full-width {
+            width: 100% !important;
+         }
+
+         .full-width-90 {
+            width: 90% !important;
+            display: inline-block !important;
+         }
+         
+         .mob-pad {
+            padding:10px !important;
+         }
+         
+
+         .content-wrapper {
+            max-width: 440px !important;
+            width: 90% !important;
+            margin: 0 auto;
+         }
+
+         .full-width-img {
+            width: 100% !important;
+            height: auto !important;
+         }
+
+         .logo img {
+            max-width: 173px !important;
+            width: 90% !important;
+            height: auto !important;
+            margin: 0 auto !important;
+            margin-top: 7px !important;
+         }
+
+         .big-title {
+            font-size: 16px !important;
+         }
+
+         .product-img {
+            width: 50px !important;
+         }
+
+         .product-img img {
+            width: 50px !important;
+            height: auto !important;
+         }
+
+         .icon-info img {
+            width: 45px !important;
+            height: auto !important;
+         }
+
+         .social {
+            width: 53% !important;
+            padding: 0 2px !important;
+         }
+
+         .social img {
+            width: 100% !important;
+            height: auto !important;
+         }
+
+         .text-center {
+            text-align: center !important;
+         }
+         
+         .align_left {
+            text-align: left !important;
+         }
+         
+         .align_right {
+            text-align: right !important;
+         }
+
+         .footer-table {
+            text-align: center !important;
+         }
+
+         .footer-table table {
+            margin: 0 auto !important;
+            float: none !important;
+         }
+
+         .height-mobile {
+            height: 20px !important;
+         }
+
+         .mobile-hide {
+            display: none;
+         }
+
+         .content-wrapper {
+            max-width: 440px !important;
+            width: 90% !important;
+            margin: 0 auto;
+         }
+
+         .full-width-img {
+            width: 100% !important;
+            max-width: 100% !important;
+            height: auto !important;
+         }
+
+         .column {
+            display: block !important;
+            width: 100% !important;
+            height: auto !important;
+            max-width: 100% !important;
+         }
+
+         .p-0 {
+            padding: 0 !important;
+         }
+
+         .pt-15 {
+            padding-top: 15px !important;
+         }
+
+         .pt-20 {
+            padding-top: 20px !important;
+         }
+
+         .module-wrap {
+            padding: 0 5% !important;
+         }
+
+         .hide {
+            display: none !important;
+            max-height: 0 !important;
+            width: 0 !important;
+            font-size: 0 !important;
+            line-height: 0 !important;
+         }
+
+         /* HEADER */
+         .logo {
+            width: 50px !important;
+            height: auto !important;
+         }
+
+         /* ADJUST */
+         .center {
+            text-align: center !important;
+            margin: 0 auto !important;
+         }
+
+         .heading {
+            font-size: 29px !important;
+            line-height: 35px !important;
+         }
+
+         .title {
+            font-size: 17px !important;
+            line-height: 23px !important;
+         }
+
+         .copy {
+            font-size: 16px !important;
+            line-height: 22px !important;
+         }
+
+         .btn-copy {
+            font-size: 16px !important;
+         }
+
+         .btn {
+            width: 90% !important;
+            max-width: 360px !important;
+         }
+
+         /* BULLET POINTS */
+         .bullet {
+            width: 5% !important;
+            display: inline-block !important;
+            text-align: center !important;
+         }
+
+         .point {
+            width: 95% !important;
+         }
+
+         /* FOOTER */
+         .social-img {
+            width: auto !important;
+            max-width: 50px !important;
+            height: 40px !important;
+         }
+
+         .footer-contact {
+            width: 270px !important;
+         }
+
+         .contact {
+            width: 90px !important;
+         }
+
+         .contact-img {
+            width: auto !important;
+            height: 50px !important;
+         }
+
+         /* SWAP IMAGES */
+         .block,
+         .swap-content {
+            display: block !important;
+            width: 100% !important;
+         }
+
+         /* TABLES */
+         .full-width {
+            width: 100% !important;
+         }
+
+         .border {
+            width: 100% !important;
+         }
+
+         .hero-headline-unit {
+            font-size: 22px !important;
+            line-height: 29px !important;
+            padding: 20px 0 !important;
+         }
+
+         .hero-headline-unit-rtl {
+            font-size: 22px !important;
+            line-height: 29px !important;
+            width: 50% !important;
+            padding: 20px 5% 20px 0 !important;
+         }
+
+         .headline-left-space {
+            width: 5% !important;
+         }
+
+         .headline-right-space {
+            width: 55% !important;
+         }
+
+         .headline-right-space-rtl {
+            width: 55% !important;
+         }
+
+         .hero-wrap {
+            background-position: 55% 50% !important;
+         }
+
+         .hero-wrap-rtl {
+            background-position: 34% 50% !important;
+         }
+
+         .deviceWidth {
+            width: 100% !important;
+         }
+         
+         .button_width {
+            width: 90% !important;
+         }
+
+         .deviceWidthInner {
+            width: 100% !important;
+         }
+
+         .pr-30 {
+            padding-right: 30px !important;
+         }
+
+         .pl-30 {
+            padding-left: 30px !important;
+         }
+
+         .pb-30 {
+            padding-bottom: 30px !important;
+         }
+
+         .bullet {
+            width: 5% !important;
+         }
+
+         .point {
+            width: 95% !important;
+            max-width: 280px !important;
+         }
+      }
+   </style>
+
+</head>
+
+
+
+<!--Email Template Start-->
+
+<body>
+   <div style="display: none; max-height: 0px; overflow: hidden;">
+      &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+   </div>
+   <!-- / HACK TO HIDE UNWANTED PREVIEW TEXT -->
+
+<!--############################## SETTING THEMPLATE THEME ###############################-->
+<!-- Set to eiter "Dark" or "Light" to switch out the colour theme for the whole template -->
+<!--######################################################################################-->
+
+       
+   
+   
+    <!--############################## Template setting ###############################-->
+<!--######################################################################################-->
+
+
+
+<!--######### Theme setting ############-->
+
+
+   <!--############################## Template setting ###############################-->
+<!--######################################################################################-->
+
+  
+
+   
+   
+  
+
+   
+   
+   
+   <table cellpadding="0" cellspacing="0" width="100%" align="center" border="0" class="mob-pad" bgcolor="#f8f8f8" style="background-color: #f8f8f8;">
+      <tr>
+         <td>
+            <table cellpadding="0" cellspacing="0" width="640" align="center" border="0" class="deviceWidth"
+               style="background-color: white;">
+
+               <!--CONTENT SECTIONS GET PASTED BELOW HERE-->
+
+               
+
+                <!--######### SECTION 1 ############-->
+              <!--HEADER-->
+              <!--##############################-->
+              <tr>
+                <td>
+                   <table cellpadding="0" cellspacing="0" width="100%" align="center" border="0"
+                      style="background-color: #000000;">
+                      <tr>
+                      </tr>
+                      <tr>
+                         <td>
+                            <table cellpadding="0" cellspacing="0" width="100%" align="center" border="0"
+                               class="deviceWidth">
+                               <tr>
+                                  <td>
+                                     <table cellpadding="0" cellspacing="0" width="100%" align="center" border="0">
+                                        <tr>
+                                           <td align="center" valign="top" bgcolor="#000000" class="full-width">
+                                              <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                                 <tr align="center">
+                                                    <td width="50%" align="left" style="padding:15px">
+                                                       <a href="https://partners.alpariportal.com/?lid=t7cqodlji2nd" target="_blank" style="text-decoration:none; color:#000000;"><img src="https://cdn.braze.eu/appboy/communication/assets/image_assets/images/64df82a52026c04ebcf99dad/original.png?1692369573" width="110" style="display:block;" border="0"  alt="Alpari" class="logo" /></a>
+                                                    </td>
+                                                    <td width="315" align="right"
+                                                       style="font-family:'Source Sans Pro', Arial, Helvetica, sans-serif; font-size:14px; color: #000000;padding:15px; width:50%; max-width: 315px;">
+                                                       <a href="https://partners.alpariportal.com/?lid=r8qf3x3oslsn" style="color: #00AE1D; text-decoration:none;">
+                                                       
+                                                       			               
+                                                                             ورود</a>
+                                                    </td>
+                                                 </tr>
+                                              </table>
+                                           </td>
+                                        </tr>
+                                     </table>
+                                  </td>
+                               </tr>
+                            </table>
+                         </td>
+                      </tr>
+                      <tr>
+                      </tr>
+                   </table>
+                </td>
+              </tr>
+              
+           
+               
+                  <!--######### SECTION 1 ############-->
+              <!--HEADER-->
+              <!--##############################-->
+               
+               
+               
+               
+             
+
+
+
+
+
+
+ <!--######### SECTION 2 ########-->
+               <!--HERO BANNER STATIC-->
+               <!--##############################-->
+               <tr>
+                  <td>
+                     <table cellpadding="0" cellspacing="0" width="100%" align="center" border="0" bgcolor="#494949">
+                        <tr>
+                           <td style="font-size: 0px; line-height: 0px;">
+                              <a href="https://partners.alpariportal.com/?lid=e1fkyx266lwj" target="_blank">
+                                 <img src="https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6656db69e25e1e0063f46216/original.jpg?1716968297" style="max-width: 640px;" width="640" class="full-width-img">
+                              </a>
+                           </td>
+                        </tr>
+                     </table>
+                  </td>
+               </tr>
+               <!--######### SECTION 2 END ########-->
+               <!--HERO BANNER STATIC-->
+               <!--##############################-->
+            
+
+               
+               
+               <!--######### SECTION 4 ############-->
+               <!--INTRO SECTION-->
+               <!--##############################-->
+               <tr>
+                  <td  align="left" style="text-align:left; background-color: #f8f8f8;" bgcolor="#f8f8f8" valign="top"  class="full-width" width="100%">
+                     <table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#ffffff" style="background-color: #ffffff;">
+                        <tr>
+                           <td  dir="ltr" align="center" >
+                              <table width="640" border="0" cellspacing="0" cellpadding="0" class="border"
+                                 style="background-color: #ffffff; padding: 0 15px">
+
+ <td height="30">
+                                    </td>
+                              
+             <!-- Salutations -->
+
+                             
+                                 <tr>
+                                    <td  style="font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif;  color: ;line-height:23px;mso-line-height-rule:exactly; color: #000000;" class="copy">
+
+                                       <p dir="rtl" align="right" style="margin: 0; font-size: 18px; color: #000000; font-weight: 600; text-align: right;">
+
+                          همگار گرامی
+                                    
+                                       </p>
+                                    </td>
+                                 </tr>
+                              
+                            
+                                
+                                 <!-- /Salutations -->
+
+
+                                  <td height="15">
+                                    </td>
+                                 <tr>
+                                    <td dir="rtl" align="right" valign="top" style="font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif; font-size:16px; color: #000000;line-height:22px;mso-line-height-rule:exactly;">
+                                      
+                                       <p style="margin: 0;" >
+                                         ما خوشحالیم که به شما اطلاع دهیم که حساب آلپاری شما اکنون تأیید شده است.
+                                          <br> <br>
+                                         کاربر: 11111
+                                           <br>
+                                         کیف پول: 11111
+                                       </p>
+                                    </td>
+                                 </tr>
+                                 <tr>
+                                    <td height="15">
+                                    </td>
+                                 </tr>
+                                 <tr>
+                                    <td dir="rtl" align="right" valign="top" style="font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif; font-size:16px; color: #000000;line-height:22px;mso-line-height-rule:exactly;">
+                                       <p style="margin: 0;" >
+                                         می‌توانید به محض واریز وجه به کیف پول خود با استفاده از یکی از روش‌های پرداخت موجود، وجوه را برداشت کنید. همچنین، می‌توانید با استفاده از <a
+                                             href="https://partners.alpariportal.com/Ib/RebateSharing?lid=4ydvm3of6c4b"
+                                             style="color:#00AE1D; font-weight:bold">ابزار اشتراک تخفیف ما</a> برای مشتریان خود، یک برنامه بازگشت نقدی راه‌اندازی کنید..
+                                       </p>
+                                    </td>
+                                 </tr>
+                                
+                              </table>
+                           </td>
+                        </tr>
+                     </table>
+                  </td>
+               </tr>
+                <td height="30" bgcolor="#ffffff" style="background-color: #ffffff;">
+                  </td>
+                <tr>
+                   <td>
+                      <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" style="background-color: #ffffff;">
+                          <tr>
+                             <td>
+                                <table border="0" cellspacing="0" cellpadding="0" align="center" class="" bgcolor="#ffffff" style="background-color: #ffffff;">
+                                   <tr>
+                                      <td bgcolor="#00ff27" align="center">
+                                                     <!--[if mso]> 
+                                                          <tr>
+                                                         <td bgcolor="#00ff27"
+                                                         style="padding: 10px 60px 10px 60px;" align="center">
+                                                        <![endif]-->
+                                                        
+                                         <a href="https://partners.alpariportal.com?lid=bwy6cpp2peqh"
+                                            target="_blank" dir="rtl" align="center" style="background-color:#00ff27;color:#0f1420;display:inline-block;font-family: 'Source Sans Pro', sans-serif;font-size:16px;display: inline-block;text-align:center;text-decoration:none;padding: 10px 60px 10px 60px; border-radius:0px;-webkit-text-size-adjust:none;"
+                                          >
+                                            وارد پرتال شوید
+                                           
+                                         </a>
+                                                  <!--[if mso]> 
+                                                          </td>
+                                                           </tr>
+                                                        <![endif]-->
+                                      </td>
+                                   </tr>
+                                   <tr>
+                                      <td height="10">
+                                      </td>
+                                   </tr>
+
+   
+                                   
+                                </table>
+                             </td>
+                          </tr>
+                       </table>
+                    </td>
+                 </tr>
+                 
+                 <tr>
+                  <td bgcolor="#ffffff" style="background-color: #ffffff;">
+                     <table cellpadding="0" cellspacing="0" width="100%" align="center" border="0" bgcolor="#ffffff" style="background-color: #ffffff;" class="section_bot">
+                        <tr>
+                           <td align="center" style="text-align:center; ">
+                              &nbsp;
+                           </td>
+                        </tr>
+                     </table>
+                  </td>
+               </tr>
+                 
+                
+               <!--####### SECTION 4 END ##########-->
+               <!--INTRO SECTION-->
+               <!--##############################-->
+               
+               
+           
+               <!--######### SECTION 5 ############-->
+               <!--TITLE, FULL WIDTH IMAGE, CTA-->
+               <!--##############################-->
+            
+               
+               <!--######### SECTION 5 END ########-->
+               <!--TITLE, FULL WIDTH IMAGE, CTA-->
+               <!--##############################-->
+               
+             
+               <!--######### SECTION 6 ############-->
+               <!--TITLE, IMAGE, TEXT AND CTA-->
+               <!--##############################-->
+             
+              
+               <!--######### SECTION 6 END ########-->
+               <!--TITLE, IMAGE, TEXT AND CTA-->
+               <!--##############################-->
+               
+                   <!--######### SECTION 5 ############-->
+               <!--TITLE, BULLETS, -->
+               <!--##############################-->
+               <tr>
+                  <td valign="top" align="left" style="" class="full-width" width="100%">
+                     <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                           <td dir="ltr" align="center">
+                              <table width="640" border="0" cellspacing="0" cellpadding="0" class="border"
+                                 style="background-color: #ffffff; padding: 0 20px">
+                                 <tr>
+                                    <td>
+                                       <table cellpadding="0" cellspacing="0" width="100%" align="center" border="0">
+                                        
+                                      
+                                        
+
+                                                <tr>
+                                    <td height="15">
+                                    </td>
+                                 </tr>
+                                 <!--Text paragraph spacing between end-->
+                                 <!--Text paragraph-->
+                              <tr>
+                                    <td dir="rtl" align="right" valign="top" style="font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif; font-size:16px; color: #000000;line-height:22px;mso-line-height-rule:exactly;">
+                                      
+                                       <p style="margin: 0;" >
+                                        نکته: مطمئن شوید که ایمیل و صندوق ورودی آلپاری خود را برای اطلاعات در مورد حساب خود، اخبار و اطلاعات بینش بازار، اعلان‌های خدمات و به‌روزرسانی‌های محصول بررسی کنید.
+                                       </p>
+                                    </td>
+                                 </tr>
+                                 <tr>
+                                    <td height="15">
+                                    </td>
+                                 </tr>
+                                 <tr>
+                                    <td dir="rtl" align="right" valign="top" style="font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif; font-size:16px; color: #000000;line-height:22px;mso-line-height-rule:exactly;">
+                                       <p style="margin: 0;" >
+                                         ما اینجا هستیم تا کمک کنیم! مرکز راهنمایی ما به صورت   <a
+                                             href="https://get.alpari.help/hc/en-gb/requests/new?ticket_form_id=13087412642076&lid=i6ior26b86op"
+                                             style="color:#00AE1D; font-weight:bold">آنلاین</a>, در دسترس است، جایی که می توانید با تیم پشتیبانی مشتری ما تماس بگیرید یا می توانید با مدیر حساب اختصاصی خود تماس بگیرید.
+                                       </p>
+                                    </td>
+                                 </tr>
+                                          <!-- END -- BULLET STRUCTURE -->
+                                          
+                                       
+                                          
+                                           <!-- NUMBER STRUCTURE -->
+                                        
+                                          <!-- END -- NUMBER STRUCTURE -->
+                                          
+                                         
+                                         
+
+                                          <!-- Button -->
+                    
+                                          <!-- Button -->
+                                          <tr>
+                                             <td height="30">
+                                             </td>
+                                          </tr>
+                                       </table>
+                                    </td>
+                                 </tr>
+                              </table>
+                           </td>
+                        </tr>
+                     </table>
+                  </td>
+               </tr>
+               <!--######### SECTION 5 END ########-->
+               <!--TITLE, BULLETS -->
+               <!--##############################-->
+               
+               <!--######### SECTION 6 FEATURE ############-->
+               <!--TITLE, IMAGE, TEXT AND CTA-->
+               <!--##############################-->
+           
+              
+               <!--######### SECTION 6 END ########-->
+               <!--TITLE, IMAGE, TEXT AND CTA-->
+               <!--##############################-->
+               
+               
+               
+
+               <!--######### SECTION 7 ############-->
+               <!--TITLE, TWO IMAGES, TWO TEXT AND TWO CTAS-->
+               <!--##############################-->
+             
+               <!--######### SECTION 7 END ########-->
+               <!--TITLE, TWO IMAGES, TWO TEXT AND TWO CTAS END-->
+               <!--##############################-->
+               
+             
+               
+               <!--######### SECTION 8 ############-->
+               <!--TITLE, BULLETS, CTA -->
+               <!--##############################-->
+            
+               <!--######### SECTION 8 END ########-->
+               <!--TITLE, BULLETS AND CTA-->
+               <!--##############################-->
+               
+         
+               
+               
+               <!--######### SECTION 12 ############-->
+               <!--CTA ONLY-->
+               <!--##############################-->
+               
+              
+               <!--####### SECTION 12 END ##########-->
+               <!--CTA ONLY-->
+               <!--##############################-->
+
+
+              
+               
+               
+
+               <!--######### SECTION APP ############-->
+               <!-- APP DOWNLOAD -->
+               <!--##############################-->
+
+               <!--######### SECTION APP END ########-->
+               <!-- APP DOWNLOAD-->
+               <!--##############################-->
+               
+               
+              
+
+
+
+               <!--######### SECTION 13 ############-->
+               <!-- KIND REGARDS -->
+               <!--##############################-->
+            
+               
+            
+               <!--######### SECTION 13 END ########-->
+               <!--KIND REGARDS-->
+               <!--##############################-->
+
+
+               <!--######### SECTION 14 ########-->
+               <!--PROMOTIONAL BANNER-->
+               <!--##############################-->
+             
+               <!--######### SECTION 14 END ########-->
+               <!--PROMOTIONAL BANNER-->
+               <!--##############################-->
+               
+               
+             
+               <!--######### SECTION 18 ############-->
+<!-- FOOTER -->
+<!--##############################-->
+
+
+<tr>
+  <td valign="top" align="center" style="" class="full-width" width="100%">
+     <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+           <td dir="ltr" align="center">
+              <table width="640" border="0" cellspacing="0" cellpadding="0" class="border mob-pad" bgcolor="#000000" style="background-color: #000000; padding: 0px">
+                 <tr>
+                    <td valign="top" align="center" style="" class="full-width" width="100%"
+                       style="max-width: 640px;">
+                       <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                          <tr>
+                             <td align="left" bgcolor="#000000" style="background-color: #000000; font-family: sans-serif; font-size:11px; color: #ffffff; line-height: 15px; padding: 0;">
+                                
+                              <!-- Comoros-->
+                              <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="padding: 0 15px 0 15px">
+                              	<tbody>
+                              		<tr>
+                              			<td  bgcolor="#000000" style="font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif; font-size:16px; color: #ffffff; line-height: 24px; padding:30px 0 30px;">
+			               
+                             Alpari (Comoros) Ltd
+                              			</td>
+                              		</tr>
+                              	</tbody>
+                              </table>
+                             <!-- END  Comoros -->
+                              
+                              <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="padding:30px 15px 0 15px; border-top-width: 1px; border-top-style: solid; border-top-color: #ffffff;">
+                              	<tbody>
+                              		<tr>
+                              			<td dir="rtl" align="right"  bgcolor="#000000" style="font-family: sans-serif; font-size:12px; color: #ffffff; line-height: 15px;">
+
+                              			<strong>ساعات کاری تیم پشتیبانی مشتریان:</strong> <br>دوشنبه تا جمعه: 07:00 تا 21:00 (GMT+3)<br><br>
+
+ 	<strong>هشدار ریسک:</strong> معامله ارزهای خارجی (Forex) و CFD ریسک قابل توجهی دارد و ممکن است منجر به ازدست رفتن سرمایه‌تان شود. نباید بیش از سطح تحمل زیانتان سرمایه‌گذاری کنید و باید اطمینان حاصل کنید که از ریسک این کار کاملاً اطلاع دارید. معامله محصولات دارای لوریج ممکن است برای همه سرمایه‌گذاران مناسب نباشد. پیش از شروع به معامله،‌ لطفاً میزان تجربه و اهداف سرمایه‌گذاری‌تان را در نظر بگیرید و در صورت نیاز، از افراد مستقل مشاوره مالی بگیرید. تشخیص اینکه براساس الزامات قانونی در کشور محل اقامتتان اجازه استفاده از خدمات نام تجاری Alpari (Comoros) Ltd را دارید یا خیر، برعهده «مشتری» است. لطفاً نسخه کامل   <a href="https://alpari.com/data/docs/regulations/risk_disclosure_en.pdf?ticket_form_id=8745237377309%3F&utm_medium=crm-email&utm_source=braze&utm_campaign=verify&utm_content=RiskDisclosure&lid=7e45k55yric3" style="color:#00AE1D;" target="_blank">افشای ریسک را مطالعه کنید</a>.
+
+                                   <br><br>
+
+                                 <strong>محرمانگی:</strong> این ایمیل و همه فایل‌هایی که همراه آن منتقل می‌شود، محرمانه است و صرفاً برای استفاده دریافت‌کننده(ها) در نظر گرفته شده است. هرگونه بررسی، ارسال به‌غیر، انتشار و استفاده‌های مشابه دیگر ممنوع است. اگر این ایمیل را اشتباهآً دریافت کرده‌اید، لطفاً فوراً به فرستنده اطلاع دهید و سپس آن را حذف کنید. Alpari (Comoros) Ltd هیچ‌گونه مسئولیتی را در رابطه با محتوای این ایمیل یا عواقب هرگونه اقدامی را که با تکیه بر اطلاعات ارائه شده در آن صورت بگیرد، نمی‌پذیرد.
+
+                                       <br><br>
+
+                                         <strong>سلب مسئولیت</strong> محتوای هرگونه مطلب دیداری یا نوشتاری در این ایمیل نباید به عنوان هیچ نوع توصیه سرمایه‌گذاری و/یا درخواست تراکنش تلقی شود. این مطالب به معنای تعهد برای خرید خدمات سرمایه‌گذاری نیست و عملکرد آتی را تضمین یا پیش‌بینی نمی‌کند. Alpari (Comoros) Ltd, شرکت‌های وابسته، نمایندگان، مدیران، کارکنان یا کارمندان آن، صحت، اعتبار، به‌موقع بودن یا کامل بودن اطلاعات یا داده‌های ارائه‌شده را تضمین نمی‌کنند و هیچ‌گونه مسئولیتی را در قبال ضرر و زیان ناشی از سرمایه‌گذاری بر اساس آن نمی‌پذیرند.
+
+                                         <br><br>
+
+<strong>Alpari (Comoros) Ltd</strong> (<a href="https://alpari.com/en?utm_medium=crm-email&utm_source=braze&utm_campaign=verify&utm_content=RiskDisclosure&lid=41ag0wasp674" style="color:#00AE1D;" target="_blank">https://alpari.com/en/</a>) با شماره HY00423015 به ثبت رسیده و دارای مجوز از سوی «سازمان خدمات بین‌المللی» موهلی، جزیره موهلی به عنوان کارگزار و شرکت تسویه وجوه بین‌المللی تحت مجوز شماره T2023236 است.
+
+                                   
+
+                                   
+ 	
+                 <br><br>
+
+            شما این پیام را دریافت کرده‌اید زیرا مشترک «اعلامیه ها» هستید. اگر این ایمیل به اشتباه برای شما ارسال شده است و می‌خواهید اشتراکتان را برای دریافت اطلاعیه های ما لغو کنید، لطفاً
+ 
+                                   
+                                     <a href="" style="color:#00AE1D;" target="_blank">اینجا کلیک کنید</a> 
+                                         
+
+                                         <br></br>
+                                     
+اگر نیاز به راهنمایی دارید می‌توانید به
+ 
+
+  <a href="https://get.alpari.help/hc/en-gb?lid=dotk7irv8pin" style="color:#00AE1D;" target="_blank"> مرکز راهنمایی </a> ما مراجعه کنید یا  <a href="https://get.alpari.help/hc/en-gb/requests/new?ticket_form_id=13087412642076&lid=2ox3umxeuj6a" style="color:#00AE1D;" target="_blank">درخواستی ارائه دهید.
+  </a> 
+ 
+ 
+  
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+
+                              			</td>
+                              		</tr>
+                              		<tr><td height="30px">&nbsp;</td></tr>
+                              	</tbody>
+                              </table>
+                               </td>
+                            </tr>
+                         </table>
+                      </td>
+                   </tr>
+                </table>
+             </td>
+          </tr>
+       </table>
+    </td>
+ </tr>
+ <!--######### SECTION 18 END ########-->
+ <!--FOOTER-->
+ <!--##############################-->
+               
+               
+
+
+               <!--NO MORE CONTENT SECTIONS PASTED AFTER THIS POINT-->
+            </table>
+         </td>
+      </tr>
+      <tr>
+         <td height="25">
+         </td>
+      </tr>
+   </table>
+</body>
+<!--Email Template End-->
+
+</html>
