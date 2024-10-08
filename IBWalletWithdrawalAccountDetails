@@ -560,6 +560,14 @@
                                     </td>
                                  </tr>
 
+
+                                               </table>
+                             </td>
+                          </tr>
+                       </table>
+                    </td>
+                 </tr>
+
     <!--######### SECTION 8 ############-->
                <!--TITLE, BULLETS, CTA -->
                <!--##############################-->
@@ -705,10 +713,31 @@
                <!--TITLE, BULLETS AND CTA-->
                <!--##############################-->
 
-                                 <tr>
-                                    <td height="15">
+                  
+                 
+                
+               <!--####### SECTION 4 END ##########-->
+               <!--INTRO SECTION-->
+               <!--##############################-->
+               
+               
+
+
+         <tr>
+                  <td  align="left" style="text-align:left; background-color: #f8f8f8;" bgcolor="#f8f8f8" valign="top"  class="full-width" width="100%">
+                     <table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#ffffff" style="background-color: #ffffff;">
+                        <tr>
+                           <td  dir="ltr" align="center" >
+                              <table width="640" border="0" cellspacing="0" cellpadding="0" class="border"
+                                 style="background-color: #ffffff; padding: 0 15px">
+
+ <td height="30">
                                     </td>
-                                 </tr>
+                              
+          
+
+
+                                  
                                  <tr>
                                     <td align="left" valign="top" style="font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif; font-size:16px; color: #000000;line-height:22px;mso-line-height-rule:exactly;">
                                        <p style="margin: 0;" >
@@ -719,33 +748,19 @@
                                        </p>
                                     </td>
                                  </tr>
-                                
-                              </table>
-                           </td>
-                        </tr>
-                     </table>
-                  </td>
-               </tr>
-        
-                 
-                 <tr>
-                  <td bgcolor="#ffffff" style="background-color: #ffffff;">
-                     <table cellpadding="0" cellspacing="0" width="100%" align="center" border="0" bgcolor="#ffffff" style="background-color: #ffffff;" class="section_bot">
-                        <tr>
-                           <td align="center" style="text-align:center; ">
-                              &nbsp;
-                           </td>
-                        </tr>
-                     </table>
-                  </td>
-               </tr>
-                 
-                
-               <!--####### SECTION 4 END ##########-->
-               <!--INTRO SECTION-->
-               <!--##############################-->
-               
-               
+
+
+                                               </table>
+                             </td>
+                          </tr>
+                       </table>
+                    </td>
+                 </tr>
+
+  <tr>
+                                    <td height="20">
+                                    </td>
+                                  </tr>
            
                <!--######### SECTION 5 ############-->
                <!--TITLE, FULL WIDTH IMAGE, CTA-->
